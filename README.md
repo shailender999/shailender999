@@ -1,14 +1,14 @@
 # **Shailender Pandey** -- @shailender999
 
-🤖 Hi, I am Shailender, Senior Software Developer in React, 4.8+ Years experienced professional in Front End Development with strong hands on 
-Javascript, React JS, HTML & CSS. 
+🤖 Shailender is a highly skilled Front End Developer with over 5 years of experience in JavaScript (ES6), React, Node, Express, HTML5, and CSS. He has a proven track record of building scalable, high-quality frontend applications and has led projects from technical design to operation. Shailender is proficient in the modern frontend ecosystem, including testing frameworks such as Jest, and is experienced in Agile methodologies. He is also known for his ability to mentor junior engineers and drive strong collaboration across teams. He also possess strong understanding of Data Structures and Algorithms (DSA) with demonstrated proficiency in problem-solving and algorithm design.
 
 👨🏽‍💻 Building **Samanonspot** (my dream project) 🎯
 
 
 ## **Coding Profiles**
-- GeeksForGeeks - https://auth.geeksforgeeks.org/user/shailenderpandey/profile
-- HackerRank - https://www.hackerrank.com/shailenderpande1
+- GeeksForGeeks - https://www.geeksforgeeks.org/user/shailender999/
+- Leetcode - https://leetcode.com/shailender999/
+- Github - https://github.com/shailender999
 
 ## **Get in Touch**
 
